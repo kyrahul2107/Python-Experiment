@@ -1,0 +1,1 @@
+console.log("Hello My New Loptop You will give me 12 lpa job and a love marriage girlfriend");
